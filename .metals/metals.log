@@ -1,0 +1,8 @@
+2020.09.02 13:17:46 INFO  started: Metals version 0.9.3 in workspace 'C:\Users\Pantelis Nasikas\Documents\AgileActorsHR\Data Chapter Tests\python_intro' for client vscode.
+2020.09.02 13:17:49 INFO  time: initialize in 2.55s
+2020.09.02 13:17:55 WARN  no build tool detected in workspace 'C:\Users\Pantelis Nasikas\Documents\AgileActorsHR\Data Chapter Tests\python_intro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.02 13:19:26 INFO  shutting down Metals
+2020.10.26 10:12:35 INFO  started: Metals version 0.9.4 in workspace 'C:\Users\Pantelis Nasikas\Documents\AgileActorsHR\Data Chapter Tests\python_intro' for client vscode.
+2020.10.26 10:12:36 INFO  time: initialize in 1s
+2020.10.26 10:12:37 WARN  no build tool detected in workspace 'C:\Users\Pantelis Nasikas\Documents\AgileActorsHR\Data Chapter Tests\python_intro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.26 11:41:54 INFO  shutting down Metals
